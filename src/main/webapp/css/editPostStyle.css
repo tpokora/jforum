@@ -1,0 +1,20 @@
+.content input {
+	background: none repeat scroll 0 0 #7C0707;
+    border-color: #cc0000;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.content textarea {
+	background: none repeat scroll 0 0 #7C0707;
+    border-color: #cc0000;
+    border-style: solid;
+    border-width: 1px;
+    color: #ffffff;
+    line-height: 20px;
+    width: 490px;
+    margin-left: 2px;
+}

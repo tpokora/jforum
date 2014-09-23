@@ -1,0 +1,4 @@
+Please make note of these MySQL credentials again:
+  Root User: adminj8kUaRf
+  Root Password: KrNALuQM6baJ
+URL: https://jforum-tpokora.rhcloud.com/phpmyadmin/

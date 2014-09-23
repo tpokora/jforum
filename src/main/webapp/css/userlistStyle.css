@@ -1,0 +1,25 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+table th {
+	border-bottom: 1px solid #7C0707;
+	font-weight: bold;
+	padding: 10px;
+}
+
+table td {
+	padding: 10px;
+}
+
+a {
+    text-decoration: underline;
+    color: #ffffff;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #cc0000;
+}

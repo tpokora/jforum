@@ -1,0 +1,55 @@
+.topicsTable {
+	margin-left: auto;
+	margin-right: auto;
+	border-collapse: collapse;
+	border: 2px solid black;
+}
+
+.topicsTable th, td {
+	border: 2px solid black;
+}
+
+.topicsTable th {
+	background-color: #7C0707;
+	font-weight: bold;
+	padding: 10px;
+}
+
+tr.categoryName {
+	background-color: #141313;
+}
+
+td {
+	padding: 6px;
+    
+}
+
+td.topicName {
+    width: 250px;
+    overflow: hidden;
+}
+
+tr.categoryName a {
+	color: #ffffff;
+	font-size: 12px;
+}
+
+tr.categoryName a:hover {
+	color: #cc0000;
+	text-decoration: none;
+}
+
+tr.topic {
+	background-color: #4B0505;
+}
+
+tr.topic a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+tr.topic a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+

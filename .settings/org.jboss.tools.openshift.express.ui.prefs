@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+org.jboss.tools.openshift.ApplicationId=535b9ba84382ecb055001161
+org.jboss.tools.openshift.ApplicationName=jforum
+org.jboss.tools.openshift.Connection=https\://pokora.tomek%40gmail.com@
+org.jboss.tools.openshift.DeployFolder=webapps
+org.jboss.tools.openshift.Domain=tpokora
+org.jboss.tools.openshift.RemoteName=origin
